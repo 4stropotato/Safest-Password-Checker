@@ -9,6 +9,13 @@ This is one of the first coolest project that I made when I started coding Pytho
 
 In your terminal,
 ```BASH
+git clone https://github.com/4stropotato/Safest-Password-Checker
+cd Safest-Password-Checker
+```
+
+And then run the python file.
+
+```BASH
 python3 pwcheck.py [your password here]
 ````
 
