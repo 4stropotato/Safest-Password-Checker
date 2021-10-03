@@ -19,6 +19,8 @@ And then run the python file.
 python3 pwcheck.py [your password here]
 ````
 
+ie.
+
 Let's try 4stropotato:
 ```BASH
 python3 pwcheck.py 4stropotato
