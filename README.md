@@ -1,6 +1,7 @@
 # Safest-Password-Checker
 
  *** [ INTRODUCTION ] ***
+ 
 This is one of the first coolest project that I made when I started coding Python. The reason why this is the safest password checker is; It doesn't give the complete hash of your password. It sends the first characters of your hash and compare it with the results. from the https://haveibeenpwned.com API. Because we believe that there is nothing safe in the internet. :) -4stropotato
 
 
