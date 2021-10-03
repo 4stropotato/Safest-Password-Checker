@@ -1,7 +1,7 @@
 # Safest-Password-Checker
 
  *** [ INTRODUCTION ] ***
- 
+
 This is one of the first coolest project that I made when I started coding Python. The reason why this is the safest password checker is; It doesn't give the complete hash of your password. It sends the first characters of your hash and compare it with the results. from the https://haveibeenpwned.com API. Because we believe that there is nothing safe in the internet. :) -4stropotato
 
 
@@ -9,12 +9,12 @@ This is one of the first coolest project that I made when I started coding Pytho
 
 In your terminal,
 ```BASH
-python3 '.\Safest Password Checker.py' [your password here]
+python3 'pwcheck.py' [your password here]
 ````
 
 Let's try 4stropotato:
 ```BASH
-python3 '.\Safest Password Checker.py' 4stropotato
+python3 'pwcheck.py' 4stropotato
 ````
 
 As of October 2021, This was the result:
@@ -24,7 +24,7 @@ As of October 2021, This was the result:
 
 Or try multiple password separated by white spaces:
 ```BASH
-python3 '.\Safest Password Checker.py' 4stropotato shinji yuyu
+python3 'pwcheck.py' 4stropotato shinji yuyu
 ```
 
 And the result was:
